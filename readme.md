@@ -1,12 +1,12 @@
 # Cookie Recipe
 
-#### Blocking and inline exercise for Epicodus, 08.03.2020
+#### Indentation exercise for Epicodus, 08.03.2020
 
 #### By Cameron Will Mike Manchee
 
 ## Description
 
-This page is intended to use new blocking and inline skills to talk about a cookie recipe.
+This page is intended to use new indentation knowledge to fix a code involving a cookie recipe.
 
 ## Setup
 
